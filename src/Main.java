@@ -7,6 +7,7 @@ public class Main {
         Lamp lamp1 = new Lamp();
         Lamp lamp2 = new Lamp();
 
+
         lamp1.turnOn();
         lamp2.turnOn();
 
